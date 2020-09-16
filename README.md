@@ -1,6 +1,5 @@
 # Whatsapp Campaign Chat Sender - WACCS
 
-<a href="https://www.buymeacoffee.com/randhipp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 104px !important;" ></a>
 ___
 
 #### This NodeJS script was a part of wafvel.com 
@@ -20,7 +19,7 @@ ___
 
 ##### Screenshot
 
-![Demo](output.gif)
+<img src="output.gif" height="300" alt="Demo">
 
 ##### How to run :
 
