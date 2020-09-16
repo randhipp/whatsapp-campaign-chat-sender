@@ -1,0 +1,33 @@
+{
+  "name": "whatsapp-campaign-chat-sender",
+  "version": "1.0.0",
+  "description": "Script to send bulk / mass / batch / whatsapp message to list of users and phone number using venom bot - orkestral/venom",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "venom",
+    "node",
+    "whatsapp",
+    "bulk",
+    "mass",
+    "blaster",
+    "whatsapp",
+    "bot",
+    "batch",
+    "js",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "wafvel.com - randhi.pp@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "rxjs": "^6.6.3",
+    "venom-bot": "^2.0.1"
+  }
+}
